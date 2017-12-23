@@ -1,6 +1,6 @@
 {
   "name": "a-module-with-babelrc",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A module with a .babelrc that, if it is used by the build tool, will error",
   "license": "Apache-2.0",
   "repository": "goto-bus-stop/a-module-with-babelrc",
